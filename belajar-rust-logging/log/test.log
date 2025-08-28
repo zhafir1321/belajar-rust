@@ -1,0 +1,7 @@
+2025-08-26T15:04:24.795057+07:00 ERROR belajar_rust_logging::tests - This is an error message
+2025-08-26T15:04:24.795362+07:00 WARN belajar_rust_logging::tests - This is a warning message
+2025-08-26T15:04:24.795412+07:00 INFO belajar_rust_logging::tests - This is an info message
+2025-08-26T15:04:28.013704+07:00 ERROR belajar_rust_logging::tests2 - This is an error message
+2025-08-26T15:04:28.014081+07:00 WARN belajar_rust_logging::tests2 - This is a warning message
+2025-08-26T15:04:28.014126+07:00 INFO belajar_rust_logging::tests2 - This is an info message
+2025-08-26T15:04:28.014165+07:00 DEBUG belajar_rust_logging::tests2 - This is a debug message

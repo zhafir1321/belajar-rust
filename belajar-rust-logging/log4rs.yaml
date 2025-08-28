@@ -1,0 +1,27 @@
+appenders:
+  stdout:
+    kind: console
+  myfile:
+    kind: file
+    path: $ENV{PWD}/log/output.log
+    append: true
+  test_file:
+    kind: file
+    path: $ENV{PWD}/log/test.log
+    append: true
+
+root:
+  level: trace
+  appenders:
+    - stdout
+    - myfile
+
+loggers:
+  belajar_rust_logging::tests:
+    level: info
+    appenders:
+      - test_file
+  belajar_rust_logging::tests2:
+    level: debug
+    appenders:
+      - test_file

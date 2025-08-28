@@ -1,0 +1,13 @@
+belajar-rust-concurrency/target
+belajar-rust-dasar/target
+belajar-rust-database/target
+belajar-rust-database/.env
+belajar-rust-datetime/target
+belajar-rust-library/target
+belajar-rust-logging/target
+belajar-rust-redis/target
+belajar-rust-serialization/target
+belajar-rust-unit-test/target
+belajar-rust-unit-test/.idea
+belajar-rust-validation/target
+.DS_Store
