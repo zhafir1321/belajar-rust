@@ -12,4 +12,5 @@ belajar-rust-unit-test/.idea
 belajar-rust-validation/target
 belajar-rust-config/target
 belajar-rust-template/target
+belajar-rust-axum/target
 .DS_Store
