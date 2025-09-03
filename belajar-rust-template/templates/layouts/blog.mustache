@@ -1,0 +1,11 @@
+{{> template/layouts/header}}
+
+<h1>{{title}}</h1>
+<p>{{content}}</p>
+{{#if author}}
+<p>Written by: {{author}}</p>
+{{else}}
+<p>Written by: Anonymous</p>
+{{/if}}
+
+{{> template/layouts/footer}}
